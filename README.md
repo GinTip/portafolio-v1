@@ -1,3 +1,3 @@
 # Portafolio versión 1
 
-Portafolio personal DEV WEB.
+Elaboración de Portafolio como desarrolladora. Incluye contacto, experiencia y habilidades.
